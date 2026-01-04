@@ -875,8 +875,7 @@ I'll compile insights and share next week.
 
 **Document Version:** 1.0
 **Last Updated:** January 2026
-**Contact:** [Your consulting contact information]
-
+**Contact:** Meegrowlabs.com
 ---
 
 *This pitch document is based on publicly available information and industry best practices. Specific recommendations should be validated against Miravia Bio's business objectives, resources, and market positioning. All projections are estimates based on industry benchmarks and should not be considered guaranteed outcomes.*
