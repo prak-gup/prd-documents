@@ -690,7 +690,7 @@ Optimized Title: "Rare Disease Market Access Consulting | European Expansion | M
 Miravia Bio operates in a €131B market with 11% annual growth, yet lacks the digital visibility required to capture its fair share of inbound opportunities. Competitors with less specialized expertise are winning early-stage awareness through consistent content marketing and social media presence.
 
 **The Opportunity:**
-By investing €150K-200K in Year 1, Miravia Bio can:
+In Year 1, Miravia Bio can:
 - Establish thought leadership in European rare disease market access
 - Generate 60-100 qualified inbound inquiries annually
 - Reduce customer acquisition costs by 30-40%
